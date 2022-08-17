@@ -1,0 +1,153 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.menu ul li a {
+     padding: 0 15px 5px !important;
+	}
+	.banbackg {   
+    padding-top: 0px!important;
+	}
+	.d-isp ul{
+	padding-left: 16px!important;
+	}
+	.mentorimg{
+	padding: 0 30px!important;
+	margin-bottom: 2rem;
+	}
+	.toppad{
+		text-align: justify;
+		padding: 0 10px;
+	}
+	.footcolor{
+		padding: 0 10px;
+	}
+	.ban_textp h1{
+		font-size: 35px!important;
+		line-height: 55px;
+	}
+	.plorem{
+		margin-top: 1rem;
+		
+		text-align: justify!important;
+		line-height: 30px!important;
+	}
+	.testin_content{
+		padding: 0 10px!important;
+	}
+	.testn_img img{
+		padding: 0 20px;
+	}
+	.testin_text {
+	text-align: justify;
+	padding: 40px 10px 0;	
+	}
+	.yspan2{
+		display: none;
+	}
+	.yspan3{
+		margin-top: 30px;
+	}
+	.yspan_1{
+		padding-top: none!important;
+	}
+
+	
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.menu ul li a {
+     padding: 0 15px 10px !important;
+	}
+	.banbackg {   
+    padding-top: 0px!important;
+	}
+	.d-isp ul{
+		padding-left: 50px!important;
+	}
+	.footp {
+    padding-left: 50px!important;
+	}
+	
+	.ban_textp h1{
+		font-size: 40px!important;
+		line-height: 55px;
+	}
+	.testin_text {
+	text-align: justify;
+	padding-top: 10px;
+	}
+	
+
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.menu ul li a {
+     padding: 0 15px 10px !important;
+	}
+	.banbackg {   
+    padding: 0px!important;
+	}
+	.banimg{
+	padding: 0 80px;
+	}
+	.ban_textp{
+		padding: 0 80px;
+	}
+	.ban_textp h1{
+	line-height: 55px;
+	}
+	.testn_img img{
+	}
+	.testin_content{
+		padding: 0 55px;
+	}
+	.testin_text {
+	padding-top: 20px;
+	}
+
+	
+
+
+ }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.toppad{
+		padding-top: 48px;
+	}
+		.banimg img{
+		padding-top: 40px;
+	}
+	.icon-content{
+	padding: 3rem 0!important;
+	}
+	.testin_text{
+		padding-top: 20px!important;
+	}
+
+ }
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	.toppad{
+	padding-top: 48px;
+	}
+	.icon-content{
+	padding: 5rem 0!important;
+	}
+	
+	
+	
+}
+
+/*// Extra extra large devices (extra large desktops, 1440px and up)*/
+@media (min-width: 1400px) { 
+
+	.toppad{
+		padding-top: 48px;
+	}
+	
+	
+ }
